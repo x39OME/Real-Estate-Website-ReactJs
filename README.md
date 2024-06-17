@@ -1,11 +1,10 @@
-# Noon Cima-Website-ReactJs
+# Streamit Cima Website ReactJs
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
 ### 2- [React Slick Slider](https://react-slick.neostack.com/docs/get-started)
 ### 3- [React Router Dom](https://reactrouter.com/en/main)
 ### 4- [Router Quick Start](https://v5.reactrouter.com/web/guides/quick-start)
-
 
 
 ## Packages

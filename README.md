@@ -10,22 +10,11 @@
 
 ## Packages
 
-- npx create-react-app noon-cima
+- npx create-react-app Streamit-Cima
 - npm install react-slick --save
 - npm install slick-carousel --save
 - npm i react-router-dom@5
 - npm start
-
-       content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}",],
-- Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
-  
-       @tailwind base;
-       @tailwind components;
-       @tailwind utilities;
-- npm run dev
-- npm install react-icons --save
-- npm install aos --save
-- npm run build
 - copy font-awsome link to ./public/index.html
 
 

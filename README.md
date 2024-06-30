@@ -5,6 +5,7 @@
 ### 2- [React Slick Slider](https://react-slick.neostack.com/docs/get-started)
 ### 3- [React Router Dom](https://reactrouter.com/en/main)
 ### 4- [Router Quick Start](https://v5.reactrouter.com/web/guides/quick-start)
+### 5- [FontAwesome Link Cdn](https://cdnjs.com/libraries/font-awesome)
 
 
 ## Packages
@@ -14,7 +15,6 @@
 - npm install slick-carousel --save
 - npm i react-router-dom@5
 - npm start
-- 
 
        content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}",],
 - Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
@@ -26,6 +26,7 @@
 - npm install react-icons --save
 - npm install aos --save
 - npm run build
+- copy font-awsome link to ./public/index.html
 
 
 # Getting Started with Create React App

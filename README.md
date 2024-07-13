@@ -16,7 +16,7 @@
 - npm i react-router-dom@5
 - npm start
 - copy font-awsome link to ./public/index.html
-
+- npm run build
 
 # Getting Started with Create React App
 
